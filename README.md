@@ -1,5 +1,5 @@
 ## demo 2
 Some text
 
-# subhead
-some yu 
+# Subheader
+Watch youtube tut by gwenf 
